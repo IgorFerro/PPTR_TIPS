@@ -1,0 +1,22 @@
+{
+  "name": "pptr_tips",
+  "version": "1.0.0",
+  "description": "Puppeteer Tips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorFerro/PPTR_TIPS.git"
+  },
+  "author": "Igor Ferro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorFerro/PPTR_TIPS/issues"
+  },
+  "homepage": "https://github.com/IgorFerro/PPTR_TIPS#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
